@@ -2,17 +2,18 @@
 <h3 align="center">Frontend Developer | React.js | Next.js | TypeScript</h3>
 
 <p align="center">
-  Passionate about building scalable, high-performance web applications with modern frontend technologies.
+  I build scalable, high-performance, and user-friendly web applications using modern frontend technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer with strong experience in building responsive and scalable web applications  
+- 💻 Frontend Developer with strong experience in modern web development  
 - ⚛️ Specialized in React.js, Next.js, and TypeScript  
-- 🛒 Experienced in E-commerce platforms (WordPress & Shopify)  
-- 📊 Skilled in building interactive dashboards and data-driven UI  
+- 🛒 Experienced in E-commerce (WordPress & Shopify)  
+- 📊 Skilled in dashboards and data-driven UI  
+- 📦 Built and maintained **150+ repositories** on GitHub  
 - 🎯 Focused on performance, clean UI, and user experience  
 
 ---
@@ -20,53 +21,53 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js, Next.js, TypeScript
-- JavaScript (ES6+)
-- HTML5, CSS3, SCSS
-- Tailwind CSS, Bootstrap
+- React.js, Next.js, TypeScript  
+- JavaScript (ES6+)  
+- HTML5, CSS3, SCSS  
+- Tailwind CSS, Bootstrap  
 
 ### Tools & Libraries
-- Redux / State Management
-- REST APIs
-- jQuery
-- Git & GitHub
+- Redux / State Management  
+- REST APIs  
+- jQuery  
+- Git & GitHub  
 
 ### Platforms
-- WordPress (WooCommerce)
-- Shopify (Liquid)
+- WordPress (WooCommerce)  
+- Shopify (Liquid)  
 
 ---
 
-## 💼 What I Do
+## 💼 Expertise
 
 ### ⚛️ Web Applications
-- Build scalable and responsive apps using React, Next.js, and TypeScript  
-- Implement SSR/SSG for better performance and SEO  
-- Develop reusable components and clean architecture  
+- Developed scalable and responsive applications using React, Next.js, and TypeScript  
+- Implemented SSR/SSG for better SEO and performance  
+- Built reusable components and maintainable architecture  
 
 ### 🛒 E-commerce
-- Develop and customize stores using WordPress & Shopify  
-- Integrate payment gateways and third-party services  
-- Optimize performance, speed, and conversions  
+- Developed and customized stores using WordPress and Shopify  
+- Integrated payment gateways, shipping, and third-party services  
+- Optimized speed, performance, and conversion rates  
 
 ### 📊 Dashboards
-- Create interactive dashboards with real-time data  
-- Build dynamic UI for analytics and reporting  
-- Ensure cross-browser and mobile responsiveness  
+- Built interactive dashboards with real-time data updates  
+- Created dynamic UI for analytics and reporting  
+- Ensured cross-browser and mobile responsiveness  
 
 ### 🧩 Custom Solutions
-- Develop tailored web solutions for business needs  
-- Handle API integrations and complex UI workflows  
-- Deliver end-to-end scalable applications  
+- Delivered tailored web solutions based on business needs  
+- Handled API integrations and complex workflows  
+- Built scalable and maintainable applications  
 
 ### 🎨 Custom Templates
-- Convert PSD/Figma to pixel-perfect HTML templates  
-- Use SCSS for modular and maintainable code  
-- Add animations and interactive UI components  
+- Converted PSD/Figma to pixel-perfect responsive templates  
+- Used SCSS for modular and scalable styling  
+- Added animations and interactive UI components  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizwanmirza&show_icons=true&theme=radical" />
@@ -75,10 +76,19 @@
 
 ---
 
+## 📈 GitHub Highlights
+
+- 🚀 150+ repositories created and maintained  
+- ⚡ Consistent contributions and active development  
+- 🔧 Strong focus on frontend architecture and reusable components  
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/rizwanmirza  
-- LinkedIn: https://www.linkedin.com/in/rizwanmirza06/  
+- LinkedIn: (add your link)  
+- Portfolio: (add if available)
 
 ---
 
