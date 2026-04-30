@@ -67,8 +67,6 @@
 
 ---
 
----
-
 ## 📈 GitHub Highlights
 
 - 🚀 150+ repositories created and maintained  
